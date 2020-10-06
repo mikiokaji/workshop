@@ -1,0 +1,33 @@
+body{
+    background:lightgray;
+  }
+  
+  .container{
+  /*   background:lightgray; */
+  }
+  
+  .box{
+    background: #2196f3;
+    margin:5px;
+    text-align:center;
+    padding:30px;
+    border:1px solid black;
+  }
+  
+  .tile{
+    width:25%;
+  /*   margin:5px; */
+  }
+  
+  .tile2{
+    width:50%;
+  }
+  
+  .tilegroup{
+    display:flex;
+    justify-content:space-between;
+  }
+  
+  .zero{
+    padding:15px;
+  }
